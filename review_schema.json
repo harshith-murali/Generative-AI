@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProductReview",
+  "description": "Schema for extracting structured information from a product review.",
+  "type": "object",
+  "properties": {
+    "summary": {
+      "type": "string",
+      "description": "A concise summary of the review."
+    },
+    "key_themes": {
+      "type": "array",
+      "description": "The main topics discussed in the review.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sentiment": {
+      "type": "string",
+      "description": "Overall sentiment of the review.",
+      "enum": ["positive", "negative", "neutral"]
+    },
+    "pros": {
+      "type": "array",
+      "description": "Positive aspects of the product.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "cons": {
+      "type": "array",
+      "description": "Negative aspects of the product.",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "summary",
+    "key_themes",
+    "sentiment",
+    "pros",
+    "cons"
+  ],
+  "additionalProperties": false
+}
