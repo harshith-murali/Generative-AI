@@ -1,0 +1,51 @@
+student_id,name,age,major,gpa
+101,Aarav Sharma,20,Computer Science,3.8
+102,Ananya Verma,21,Data Science,3.9
+103,Rohan Patel,19,Information Technology,3.4
+104,Priya Nair,22,Computer Science,3.7
+105,Aditya Rao,20,Cybersecurity,3.2
+106,Diya Mehta,21,Data Science,3.95
+107,Kiran Kumar,20,Information Technology,3.1
+108,Sneha Kulkarni,22,Computer Science,3.6
+109,Vikram Singh,19,Artificial Intelligence,3.85
+110,Tanvi Joshi,21,Data Science,3.5
+111,Rahul Deshmukh,20,Computer Science,3.3
+112,Isha Iyer,22,Cybersecurity,3.75
+113,Siddharth Malhotra,19,Information Technology,3.0
+114,Kavya Pillai,21,Artificial Intelligence,3.9
+115,Varun Hegde,20,Computer Science,3.65
+116,Neha Gupta,22,Data Science,3.8
+117,Arjun Reddy,19,Cybersecurity,2.9
+118,Pooja Bhat,21,Computer Science,3.55
+119,Nikhil Saxena,20,Information Technology,3.45
+120,Riya Kapoor,22,Artificial Intelligence,3.92
+121,Aman Srivastava,19,Computer Science,3.25
+122,Shreya Mishra,21,Data Science,3.88
+123,Devendra Sen,20,Cybersecurity,3.15
+124,Meera Bansal,22,Information Technology,3.7
+125,Karthik Raj,19,Computer Science,3.6
+126,Anushree Das,21,Artificial Intelligence,3.82
+127,Yash Trivedi,20,Data Science,3.4
+128,Bhavna Shetty,22,Computer Science,3.95
+129,Gaurav Pandey,19,Cybersecurity,3.05
+130,Nandini Aggarwal,21,Information Technology,3.68
+131,Harshwardhan Patel,20,Computer Science,3.35
+132,Preeti Nambiar,22,Artificial Intelligence,3.78
+133,Sanjay Varma,19,Data Science,3.5
+134,Divya Agarwal,21,Computer Science,3.85
+135,Abhinav Choudhury,20,Cybersecurity,3.2
+136,Roshni Roy,22,Information Technology,3.62
+137,Manish Menon,19,Computer Science,3.1
+138,Swati Pillai,21,Data Science,3.91
+139,Akash Sinha,20,Artificial Intelligence,3.48
+140,Tarun Chawla,22,Computer Science,3.72
+141,Juhi Saxena,19,Cybersecurity,3.3
+142,Pranav Kulkarni,21,Information Technology,3.58
+143,Ritika Shah,20,Data Science,3.84
+144,Sameer Joshi,22,Computer Science,3.66
+145,Sonali Bhatt,19,Artificial Intelligence,3.75
+146,Tushar Naik,21,Cybersecurity,2.98
+147,Anjali Tiwari,20,Computer Science,3.89
+148,Deepak Yadav,22,Information Technology,3.42
+149,Aishwarya Sundaram,19,Data Science,3.96
+150,Manoj Pandey,21,Computer Science,3.28
